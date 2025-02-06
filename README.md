@@ -1,3 +1,3 @@
-# ExpressJS Project by Glydel Villarino
+# Express.JS Project by Glydel Villarino
 
-This project is a revieww of ExpressJS concepts, from beginner to advanced.
+This project is a review of ExpressJS concepts, from beginner to advanced.
